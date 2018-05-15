@@ -6,7 +6,7 @@ This package was created for learning purposes. It's the second NPM package I've
 
 ## HOW TO USE
 
-Run `npm install` to install the package and then open a file you want to use t
+Run `npm install` to install the package and use the example below for usage.
 
 
 ```javascript

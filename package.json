@@ -1,6 +1,6 @@
 {
   "name": "am-simple-log ",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple wrapper for console.log and console.dir created for learning purposes.",
   "main": "index.js",
   "keywords": [
@@ -12,5 +12,12 @@
     "errors"
   ],
   "author": "Amir Meshkin",
-  "license": "ISC"
+  "email" : "amir.meshkin@hogmail.com",
+  "url" : "https://github.com/ameshkin/am-simple-log",
+  "repository" :
+  {
+    "type" : "git",
+    "url" : "https://github.com/ameshkin/am-simple-log"
+  },
+  "license": "ISC",
 }
