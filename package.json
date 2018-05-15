@@ -1,0 +1,16 @@
+{
+  "name": "am-simple-log ",
+  "version": "1.0.1",
+  "description": "A simple wrapper for console.log and console.dir created for learning purposes.",
+  "main": "index.js",
+  "keywords": [
+    "console",
+    "logging",
+    "errors",
+    "logging",
+    "javascript",
+    "errors"
+  ],
+  "author": "Amir Meshkin",
+  "license": "ISC"
+}
