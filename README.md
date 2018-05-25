@@ -1,6 +1,8 @@
 # SIMPLE LOGGER
 
-This package was created for learning purposes. It's the second NPM package I've made and the first public one.
+A simple wrapper to use instead of `console.dir()` and `console.log()`
+
+
 
 
 
@@ -20,11 +22,12 @@ var testobj = {"test":"Object"};
 
 /**
  * USAGE
- * @param str
- * @param line
- * @param debug
+ * @param str     Error Messae
+ * @param line    Line Number of Error
+ * @param debug   Debug Flag  
  */
-Log.err("Test Log","100",debug);
+
+Log.err("Test Log Message","100",debug);
 Log.err(testobj,"102",debug);
 
 ```
